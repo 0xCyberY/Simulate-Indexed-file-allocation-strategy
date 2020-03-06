@@ -1,0 +1,19 @@
+Enter the index block: 2
+Enter no of blocks needed and blocks for the index 2 on the disk :
+4 1 2 3 43
+Allocated
+File Indexed
+2-------->1 : 1
+2-------->2 : 1
+2-------->3 : 1
+2-------->43 : 1
+Do you want to enter more file(Yes - 1/No - 0)1
+Enter the index block: 3
+3 index is already allocated
+Enter the index block: 5
+Enter no of blocks needed and blocks for the index 5 on the disk :
+2 35 45
+Allocated
+File Indexed
+5-------->35 : 1
+5-------->45 : 1
